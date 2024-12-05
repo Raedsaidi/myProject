@@ -1,0 +1,14 @@
+{
+  "details":[
+    {
+      "id":12,
+      "name":"air pods pro 4",
+      "price":250;
+    },
+    {
+      "id":123,
+      "name":"air pods pro 2",
+      "price":180;
+    }
+  ]
+}
